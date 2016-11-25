@@ -1,0 +1,37 @@
+.div-center {
+	float: none;
+	margin: 0 auto;
+    display: block;
+}
+
+.container {
+	width: 1200px;
+	background-color: #bdc3c7;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+.image-with-caption {
+	background-color: #ecf0f1;
+	padding-top: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border: solid #95a5a6 1px;
+}
+
+.caption {
+	padding-top: 10px;
+}
+
+.text-italics {
+	font-style: italic;
+}
+
+.rounded-image {
+	border-radius: 3px;
+}
+
+.light-border {
+	border: solid #bdc3c7 1px;
+}
